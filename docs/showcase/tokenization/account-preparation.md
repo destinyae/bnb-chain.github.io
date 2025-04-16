@@ -10,7 +10,7 @@ BNB Chain's multi-chain framework, including BSC, opBNB, and Greenfield, offers 
 
 There are different sceneraios of tokenization, but in general, you need to prepare a wallet account and buy some crypto before you start create token. 
 
-In this toturial we will focus on the account preparation steps, help you set up your wallet and buy crypto to pay fees. 
+In this tutorial we will focus on the account preparation steps, help you set up your wallet and buy crypto to pay fees. 
 
 ## 1 Preparation
 
@@ -173,7 +173,7 @@ Choose BNB on BNB Smart Chain
 
 ![](./company-tokenization-tutorial/Company Tokenization Tutorial 3.003.png)
 
-##### Step 3: Choose vender
+##### Step 3: Choose vendor
 
  Select your vendor. Here we can see Trust Wallet provides several different vendors, we suggest using MoonPay to continue 
 
@@ -272,7 +272,7 @@ Metamask provides different vendors for you to choose from, you can use them to 
 
 ![](./rwa-tokenization-tutorial/RWA Tokenization Tutorial 1.018.png)
 
-##### Step 4: Choose vender
+##### Step 4: Choose vendor
 1) Select your payment method
    - We suggest using “Debit or Credit” which has a relatively lower service fee. 
 
@@ -281,7 +281,7 @@ Metamask provides different vendors for you to choose from, you can use them to 
 2) Select your vendor. 
 
 - Here we can see MetaMask provides several different vendors, we suggest using MoonPay to continue 
-
+33
 ![](./rwa-tokenization-tutorial/RWA Tokenization Tutorial 1.020.png)
 
 ##### Step 5: Enter Credit Card Information
